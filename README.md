@@ -20,7 +20,7 @@ Utilize o video com base na soma de todos os dígitos do RM:
 |De 1 até 5 | q1A|
 |De 6 até 9 | q1B|
 
-Exemplo: RM090174 = 0+9+0+1+7+4  = 21 => 2+1 = 3 usar o víideo q1A
+Exemplo: RM95634 = 9+5+6+3+4  = 27 => 2+7 = 9 usar o vídeo q1A
 
 ### O que você deve fazer:
 
